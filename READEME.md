@@ -40,5 +40,5 @@ Guidelines for contributing to the project.
 ## License
 Include the license information for your project.
 
-# Create by --
+# Created by --
 Sumit Sourav
